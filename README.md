@@ -20,7 +20,7 @@ class ExampleLanguagePlugin extends PluginBase {
 
         $someLanguageId = 'en_EN';
 
-        $someLanguage = LanguageAPI::getInstance()->getLanguage($someLanguage);
+        $someLanguage = LanguageAPI::getInstance()->getLanguage($someLanguageId);
 
         // ADD TRANSLATIONS TO A LANGUAGE
 
