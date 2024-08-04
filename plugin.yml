@@ -1,0 +1,5 @@
+name: 'LanguageAPI'
+author: 'xChillz'
+main: 'xchillz\language\LanguagePlugin'
+version: '1.0'
+api: '2.0.0'
