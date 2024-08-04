@@ -2,7 +2,7 @@
 
 This is a Language API for either Khronos plugins or to use it yourself!
 
-![Download it here](https://github.com/KhronosDevs/LanguageAPI/releases/latest/download/LanguageAPI.phar)
+![Download it here](https://github.com/KhronosDevs/LanguageAPI/releases/latest/download/LanguageAPI_v1.0.phar)
 
 ## How to use
 
